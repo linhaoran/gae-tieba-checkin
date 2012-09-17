@@ -1,0 +1,4 @@
+cron:
+- description: every minute job
+  url: /checkcron
+  schedule: every 1 minutes
